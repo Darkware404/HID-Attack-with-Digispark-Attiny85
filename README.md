@@ -1,12 +1,3 @@
 # HID-Attack-with-Digispark-Attiny85
-sa
-s
 
-s
-as
-as
-fs
-f
-sdf
-d
-f
+Scan for WiFi devices, block selected connections, create dozens of networks and confuse WiFi scanners!
